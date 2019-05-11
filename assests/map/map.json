@@ -1,0 +1,39 @@
+{ "height":13,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 3, 0, 3, 0, 3, 0, 3, 0, 0, 0, 0, 1, 2, 1, 2, 1, 2, 1, 2, 1, 0, 0, 0, 0, 0, 3, 0, 3, 0, 3, 0, 3, 0, 0, 0, 0, 0, 2, 1, 2, 1, 2, 1, 2, 1, 2, 0, 0, 0, 0, 3, 0, 3, 0, 3, 0, 3, 0, 3, 0, 0, 0, 0, 1, 2, 1, 2, 1, 2, 1, 2, 1, 0, 0, 0, 0, 0, 3, 0, 3, 0, 3, 0, 3, 0, 0, 0, 0, 0, 2, 1, 2, 1, 2, 1, 2, 1, 2, 0, 0, 0, 0, 3, 0, 3, 0, 3, 0, 3, 0, 3, 0, 0, 0, 0, 1, 2, 1, 2, 1, 2, 1, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":13,
+         "id":4,
+         "name":"Tile Layer 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":13,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":5,
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.2.3",
+ "tileheight":45,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"box1.tsx"
+        }, 
+        {
+         "firstgid":2,
+         "source":"wood.tsx"
+        }, 
+        {
+         "firstgid":3,
+         "source":"shadow1.tsx"
+        }],
+ "tilewidth":45,
+ "type":"map",
+ "version":1.2,
+ "width":13
+}
